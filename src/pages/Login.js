@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className="container">
-      <h1>Magic Auth + LinkedIn</h1>
+      <h1>Magic + LinkedIn</h1>
       <button onClick={handleSocialLogin}>
         <FaLinkedin size={"2.5rem"} />
         Log in with LinkedIn
